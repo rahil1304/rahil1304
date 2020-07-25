@@ -1,6 +1,6 @@
 ### Hi there, I'm Rahil! 👋
-## I'm a Final Year Computer Science Undergraduate looking for opportunities in the Software Development Domain 💻 
-📫 How to reach me: You can email me on rahil1304@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/rahil-sarvaiya/
+#### I'm a Final Year Computer Science Undergraduate looking for opportunities in the Software Development Domain 💻 
+📫 How to reach me: Feel free to drop me an email on rahil1304@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/rahil-sarvaiya/
 <!--
 **rahil1304/rahil1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
