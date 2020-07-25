@@ -1,5 +1,5 @@
 ### Hi there, I'm Rahil! 👋
-### I'm a Final Year Computer Science Undergraduate looking for opportunities in the Softeware Development Domain. 
+### I'm a Final Year Computer Science Undergraduate looking for opportunities in the Software Development Domain. 
 📫 How to reach me: You can email me on rahil1304@gmail.com
 <!--
 **rahil1304/rahil1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
