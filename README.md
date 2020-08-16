@@ -1,5 +1,5 @@
 ### Hi there, I'm Rahil! 👋
-#### I'm a Final Year Computer Science Undergraduate looking for opportunities in the Software Development Domain 💻 
+#### I'm a Software Development Engineer at Valuefy Solutions with a Bachelors in Computer Engineering. 💻 
 📫 How to reach me: Feel free to drop me an email on rahil1304@gmail.com or <br/>
 connect with me on LinkedIn: https://www.linkedin.com/in/rahil-sarvaiya/
 <!--
