@@ -1,7 +1,7 @@
 ### Hi there, I'm Rahil! 👋
 #### I'm a Software Development Engineer at Valuefy Solutions with a Bachelors in Computer Engineering. 💻 
 
-You can get to know more about me here - https://rahil1304.github.io/
+You can get to know more about me here - https://rahil1304.github.io/ <br/>
 📫 How to reach me: Feel free to drop me an email on rahil1304@gmail.com or <br/>
 connect with me on LinkedIn: https://www.linkedin.com/in/rahil-sarvaiya/
 <!--
