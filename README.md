@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/rahil-sarvaiya"><img src="https://img.shields.io/badge/-Rahil%20Sarvaiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:rahil1304@gmail.com"><img src="https://img.shields.io/badge/-rahil1304@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/SarvaiyaRahil"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-SarvaiyaRahil%20-blue?style=flat&logo=twitter"></a>
-<a href="https://medium.com/@rahil1304"><img alt="Blog" src="https://img.shields.io/badge/Medium-rahil1304%20-grey?style=flat&logo=medium"></a>
+<a href="https://medium.com/@rahil1304"><img alt="Blog" src="https://img.shields.io/badge/Medium-rahil1304%20-blue?style=flat&logo=medium"></a>
 </p>
 <!--
 **rahil1304/rahil1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
