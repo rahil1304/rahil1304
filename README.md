@@ -1,7 +1,7 @@
 ### Hi there, I'm Rahil! 👋
 #### I'm a Software Development Engineer at Valuefy Solutions with a Bachelors in Computer Engineering. 💻 
 
-[comment]: # ### ⚙️ &nbsp;GitHub Analytics
+// ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/rahil1304">
