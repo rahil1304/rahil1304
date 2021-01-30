@@ -12,6 +12,12 @@
 </p>
 --->
 
+<p align=center>
+  <img src="https://badges.pufler.dev/visits/rahil1304/rahil1304?color=black&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=rahil1304" />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Frahilsarvaiya.tech&count_bg=%232468EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Website+Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
