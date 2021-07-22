@@ -1,5 +1,6 @@
 ### Hi there, I'm Rahil! 👋
-#### I'm a Software Development Engineer at Valuefy Solutions with a Bachelors in Computer Engineering. 💻 
+#### I'm a Masters of Computer Science student at North Carolina State University. 💻 
+#### I've previously worked as a Software Development Engineer at Valuefy Solutions and have a Bachelors degree in Computer Engineering. 
 
 <!--
 ### ⚙️ &nbsp;GitHub Analytics
