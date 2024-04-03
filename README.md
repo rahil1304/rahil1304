@@ -1,5 +1,6 @@
 ### Hi there, I'm Rahil! 👋
-#### I'm a Masters of Computer Science student @ North Carolina State University. 🏫 
+#### I'm a Software Engineer @MathWorks 
+#### I completed my Masters of Computer Science from North Carolina State University. 🏫 
 #### I've previously worked as a Software Development Engineer @ Valuefy Solutions 💻  and have a Bachelors degree in Computer Engineering. 
 
 <!--
